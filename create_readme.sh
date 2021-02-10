@@ -21,9 +21,7 @@ do
     filename="$(basename -- ${filepath})"
     # Extract the basename from the filename.
     basename="$(basename ${filename} .png)"
-    echo $'\n' >> ${README_FILENAME}
     echo $'\n'"### ${basename}"$'\n' >> ${README_FILENAME}
     echo "![${basename}](${filepath})" >> ${README_FILENAME}
-    echo $'\n' >> ${README_FILENAME}
 done
 

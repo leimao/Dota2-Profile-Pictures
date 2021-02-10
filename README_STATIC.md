@@ -1,4 +1,8 @@
-# Dota2 名主播头像
+# Dota2名主播头像
+
+## Introduction
+
+这个是一个Dota2名主播头像的合集。
 
 ## Install Dependencies
 
