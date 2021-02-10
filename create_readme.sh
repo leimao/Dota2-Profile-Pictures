@@ -12,7 +12,7 @@ touch ${README_FILENAME}
 # Append the static content to the README.
 cat ${README_STATIC_FILENAME} >> ${README_FILENAME}
 
-echo $'\n'"## Profile Pictures"$'\n' >> ${README_FILENAME}
+echo $'\n'"## 头像合集"$'\n' >> ${README_FILENAME}
 
 # Add profile images to the README.
 for filepath in `find ${IMAGE_DIR} -name "*.png"`

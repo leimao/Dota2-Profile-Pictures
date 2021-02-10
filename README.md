@@ -22,7 +22,7 @@ bash resize.sh
 bash create_readme.sh
 ```
 
-## Profile Pictures
+## 头像合集
 
 
 ### 枫哥
