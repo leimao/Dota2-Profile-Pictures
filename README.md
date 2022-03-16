@@ -29,6 +29,10 @@ bash create_readme.sh
 
 ![枫哥](./profile_pictures/枫哥.png)
 
+### 老菜
+
+![老菜](./profile_pictures/老菜.png)
+
 ### 乌总
 
 ![乌总](./profile_pictures/乌总.png)
@@ -41,13 +45,13 @@ bash create_readme.sh
 
 ![奶子D](./profile_pictures/奶子D.png)
 
-### 法海
-
-![法海](./profile_pictures/法海.png)
-
 ### 核桃
 
 ![核桃](./profile_pictures/核桃.png)
+
+### 霸气
+
+![霸气](./profile_pictures/霸气.png)
 
 ### 宝哥
 
@@ -69,9 +73,17 @@ bash create_readme.sh
 
 ![大木](./profile_pictures/大木.png)
 
+### 斗鸡
+
+![斗鸡](./profile_pictures/斗鸡.png)
+
 ### 鲷哥
 
 ![鲷哥](./profile_pictures/鲷哥.png)
+
+### 龙神
+
+![龙神](./profile_pictures/龙神.png)
 
 ### 马甲
 
